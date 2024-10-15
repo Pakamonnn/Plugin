@@ -1,1 +1,0 @@
-#include "ThreadBGRtoHSV.hpp"
